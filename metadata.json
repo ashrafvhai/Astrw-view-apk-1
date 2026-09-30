@@ -1,0 +1,6 @@
+{
+  "name": "CosmoSphere",
+  "description": "ইন্টার্যাক্টিভ ৩ডি সোলার সিস্টেম, গভীর মহাজাগতিক স্টেলার ম্যাপ এবং মহাকাশ রহস্যের রোমাঞ্চকর ভ্রমণ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
